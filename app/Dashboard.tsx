@@ -1,0 +1,1 @@
+// TODO: Código completo combinado con RSI, MACD, Bollinger, selector, sentimiento, reservas, noticias y whale alerts
